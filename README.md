@@ -1,4 +1,4 @@
-# ⚠️ WinChaos - Educational System Simulation 
+# ⚠️ WinChaos - Educational System Simulação
 
 Este projeto é uma aplicação experimental desenvolvida em C# que explora a manipulação de componentes de baixo nível do Windows (**Win32 API**). Originalmente concebido como um exercício de **Cibersegurança e UX Design**, o programa simula um cenário de "falha crítica de sistema" para testar a resiliência da interface e a resposta do sistema operacional a processos persistentes e invasivos.
 
@@ -27,7 +27,7 @@ O projeto explora bibliotecas profundas do ecossistema Windows para demonstrar c
 * **Interface Assíncrona:** Gerenciamento de múltiplas janelas pop-up usando `Task.Run` e `Threading` para disparar notificações em cascata.
 
 
-##  Como Encerrar (Emergency Exit)
+##  Como Encerrar
 Se você rodou o programa e deseja encerrar? utilize o **Kill-switch de Emergência**:
 
 1. Mantenha pressionadas as teclas: **`CTRL` + `SHIFT`**
